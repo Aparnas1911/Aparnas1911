@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Aparna
 
-<!--
-**Aparnas1911/Aparnas1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 QA Analyst | Automation Tester
+📍 London, Ontario
 
-Here are some ideas to get you started:
+I’m a QA professional with experience in manual and automation testing, focused on delivering high-quality and reliable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+* Selenium, Cypress
+* Functional & Regression Testing
+* Jira (Bug Tracking)
+* TestLink / Excel
+* Java, JavaScript
+* SQL (Basics), API Testing
+
+---
+
+## 🚀 Projects
+
+🌍 Travel Application Testing (Selenium)
+
+* Automated login, search, booking, checkout
+* Demo shown via presentation video
+
+🛒 Cypress E2E Testing
+
+* Automated real-world user flows
+
+---
+
+## 🌐 Portfolio
+
+https://aparnasanthosh1119.wixsite.com/my-site-3
+
+---
+
+## 📫 Contact
+
+📧 [aparnasanthosh1119@gmail.com](mailto:aparnasanthosh1119@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/aparna-santhoshkumar-7b4467196/
+
+---
+
+⭐ Open to QA Analyst / Automation roles
